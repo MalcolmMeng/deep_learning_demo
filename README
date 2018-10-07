@@ -1,0 +1,8 @@
+the code is from the pytorch official tutorials.
+Here is the reference:
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
+the function of the code is to comapre resnet18,resnet50,inception_v3.
+The code was rewritten to make the code more readable.
+So some extra functions was added to automatically train and test the 
+tree networks and store the results using json.
